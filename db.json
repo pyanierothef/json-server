@@ -1,124 +1,118 @@
 {
   "prioritized_articles": {
     "date": "2018-06-05T00:00:00",
-    "contents": [
-      {
-        "type": "storynoticia",
-        "target": "",
-        "headings": {
-          "primary": "Estados Unidos",
-          "secondary": "Noticias"
+    "contents": [{
+      "type": "storynoticia",
+      "target": "",
+      "headings": {
+        "primary": "Estados Unidos",
+        "secondary": "Noticias"
+      },
+      "content": {
+        "id": 2446998,
+        "section": {
+          "name": "Noticias",
+          "identifier": "noticias"
         },
-        "content": {
-          "id": 2446998,
-          "section": {
-            "name": "Noticias",
-            "identifier": "noticias"
-          },
-          "subsection": {
-            "name": "Estados Unidos",
-            "identifier": "eeuu"
-          },
-          "introduction": "En varios tuits publicado esta ma\u00f1ana le atribuy\u00f3 a los dem\u00f3cratas la divulgaci\u00f3n de informaci\u00f3n incorrecta para hacerle quedar mal",
-          "url": "\/noticias\/eeuu\/nota\/trumpponeendudaquemariahayaprovocadolamuertede3000personas-2446998\/",
-          "authors": [
-            {
-              "id": 12128014,
-              "termid": 0,
-              "name": "Frances Rosario",
-              "type": null,
-              "identifier": "francesrosario",
-              "profile": null,
-              "post": null,
-              "thumbnail": null,
-              "url": null,
-              "email": null,
-              "twitter": null,
-              "facebook": null,
-              "personal_website": null
-            }
-          ],
-          "pub_date": "2018-09-13T08:55:00",
-          "mod_date": "2018-09-13T09:41:03",
-          "title": "Trump pone en duda que Mar\u00eda haya provocado la muerte de 3,000 personas",
-          "premium_content_access": [
-            {"id": "15926145",
-            "identifier": "soloparasuscriptores",
-            "name": "Solo para suscriptores",
-            "description": "Solo para suscriptores"}
-          ],
+        "subsection": {
+          "name": "Estados Unidos",
+          "identifier": "eeuu"
+        },
+        "introduction": "En varios tuits publicado esta ma\u00f1ana le atribuy\u00f3 a los dem\u00f3cratas la divulgaci\u00f3n de informaci\u00f3n incorrecta para hacerle quedar mal",
+        "url": "\/noticias\/eeuu\/nota\/trumpponeendudaquemariahayaprovocadolamuertede3000personas-2446998\/",
+        "authors": [{
+          "id": 12128014,
+          "termid": 0,
+          "name": "Frances Rosario",
+          "type": null,
+          "identifier": "francesrosario",
+          "profile": null,
+          "post": null,
           "thumbnail": null,
-          "images": [
-            {
-              "id": 3693091,
-              "mod_date": "0001-01-01T00:00:00",
-              "url": "https:\/\/rec-end.elnuevodia.com\/images\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-              "alt_text": "",
-              "authors": [
-                
-              ],
-              "caption": "El presidente de los Estados Unidos, Donald Trump, recurri\u00f3 a Twitter para hablar sobre Puerto Rico. (EFE)",
-              "crops": {
-                "horizontal": {
-                  "thumb": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/0\/10\/5472\/2736\/100\/50\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x1": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/0\/10\/5472\/2736\/300\/149\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x2": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/0\/10\/5472\/2736\/600\/298\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x3": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/0\/10\/5472\/2736\/900\/447\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x4": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/0\/10\/5472\/2736\/1200\/596\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg"
-                },
-                "vertical": null,
-                "semi_square": {
-                  "thumb": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/448\/0\/4640\/3644\/100\/88\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x1": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/448\/0\/4640\/3644\/300\/260\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x2": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/448\/0\/4640\/3644\/600\/520\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x3": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/448\/0\/4640\/3644\/900\/789\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x4": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/448\/0\/4640\/3644\/1200\/1040\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg"
-                },
-                "default_image": {
-                  "thumb": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/100\/50\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x1": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/300\/149\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x2": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/600\/298\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x3": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/900\/447\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
-                  "x4": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/1200\/596\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg"
-                }
-              },
-              "image_type": "default"
+          "url": null,
+          "email": null,
+          "twitter": null,
+          "facebook": null,
+          "personal_website": null
+        }],
+        "pub_date": "2018-09-13T08:55:00",
+        "mod_date": "2018-09-13T09:41:03",
+        "title": "Trump pone en duda que Mar\u00eda haya provocado la muerte de 3,000 personas",
+        "premium_content_access": [{
+          "id": "15926145",
+          "identifier": "soloparasuscriptores",
+          "name": "Solo para suscriptores",
+          "description": "Solo para suscriptores"
+        }],
+        "thumbnail": null,
+        "images": [{
+          "id": 3693091,
+          "mod_date": "0001-01-01T00:00:00",
+          "url": "https:\/\/rec-end.elnuevodia.com\/images\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+          "alt_text": "",
+          "authors": [
+
+          ],
+          "caption": "El presidente de los Estados Unidos, Donald Trump, recurri\u00f3 a Twitter para hablar sobre Puerto Rico. (EFE)",
+          "crops": {
+            "horizontal": {
+              "thumb": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/0\/10\/5472\/2736\/100\/50\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x1": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/0\/10\/5472\/2736\/300\/149\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x2": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/0\/10\/5472\/2736\/600\/298\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x3": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/0\/10\/5472\/2736\/900\/447\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x4": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/0\/10\/5472\/2736\/1200\/596\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg"
+            },
+            "vertical": null,
+            "semi_square": {
+              "thumb": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/448\/0\/4640\/3644\/100\/88\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x1": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/448\/0\/4640\/3644\/300\/260\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x2": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/448\/0\/4640\/3644\/600\/520\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x3": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/448\/0\/4640\/3644\/900\/789\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x4": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/448\/0\/4640\/3644\/1200\/1040\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg"
+            },
+            "default_image": {
+              "thumb": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/100\/50\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x1": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/300\/149\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x2": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/600\/298\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x3": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/900\/447\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg",
+              "x4": "https:\/\/rec-end.elnuevodia.com\/images\/tn\/1200\/596\/2018\/09\/13\/d74ddcbdb01a4772a31020be5baffd24.jpg"
             }
-          ],
-          "body": [
-            "El presidente de Estados Unidos, <strong><a href=\"https:\/\/www.elnuevodia.com\/topicos\/donaldtrump\/\" target=\"_blank\">Donald Trump<\/a><\/strong>, atribuy\u00f3 hoy a una invenci\u00f3n de los dem\u00f3cratas la cifra de cerca de 3,000 muertes -que el propio gobierno de Puerto Rico ha reconocido como oficial- como consecuencia del <strong><a href=\"https:\/\/www.elnuevodia.com\/topicos\/huracanmaria\/\" target=\"_blank\">hurac\u00e1n Mar\u00eda<\/a><\/strong>.",
-            "Con tuits publicados esta ma\u00f1ana, el presidente Trump ha vuelto a evitar hacer alguna expresi\u00f3n de empat\u00eda o solidaridad con Puerto Rico, tras estudios de la Universidasd de George Washington y de investigadores de la Universidad de Harvard que calculan en unos 3,000 el total de muertes ocurridas tras el paso del cicl\u00f3n.",
-            "\u201c<strong>3,000 personas no murieron en los dos huracanes que azotaron a Puerto Rico<\/strong>. Cuando sal\u00ed de la isla, DESPU\u00c9S de que la tormenta hab\u00eda golpeado, ten\u00edan entre seis y 18 muertes. Con el paso del tiempo, no subi\u00f3 demasiado. Luego, mucho tiempo despu\u00e9s, comenzaron a reportar n\u00fameros realmente grandes, como 3,000\u201d, public\u00f3 en Twitter.",
-            "De inmediato, les atribuy\u00f3 a los miembros del Partido Dem\u00f3crata la divulgaci\u00f3n de la presunta informaci\u00f3n incorrecta para hacerlo lucir mal. ",
-            "\"<strong>Esto fue hecho por los dem\u00f3cratas para hacerme quedar ver tan mal cuanto sea posible,<\/strong> cuando he recaudado con \u00e9xito miles de millones de d\u00f3lares para ayudar a reconstruir Puerto Rico. Si una persona muri\u00f3 por cualquier motivo, como la vejez, simplemente agr\u00e9guela a la lista. Eso es mala pol\u00edtica. Yo amo a Puerto Rico\u201d, a\u00f1adi\u00f3 el presidente.",
-            ],
-          "comments": 0,
-          "place": null,
-          "days_to_live": null,
-          "disclaimer": null,
-          "tooltip": null,
-          "placeholders": [
-            
-          ],
-          "related_news": [
-            
-          ],
-          "maps": [
-            
-          ],
-          "news_events": [
-            
-          ],
-          "important_events": [
-            
-          ],
-          "status": null,
-          "tags": [
-            
-          ],
-          "data_content_type": "storynoticia"
-        }
+          },
+          "image_type": "default"
+        }],
+        "body": [
+          "El presidente de Estados Unidos, <strong><a href=\"https:\/\/www.elnuevodia.com\/topicos\/donaldtrump\/\" target=\"_blank\">Donald Trump<\/a><\/strong>, atribuy\u00f3 hoy a una invenci\u00f3n de los dem\u00f3cratas la cifra de cerca de 3,000 muertes -que el propio gobierno de Puerto Rico ha reconocido como oficial- como consecuencia del <strong><a href=\"https:\/\/www.elnuevodia.com\/topicos\/huracanmaria\/\" target=\"_blank\">hurac\u00e1n Mar\u00eda<\/a><\/strong>.",
+          "Con tuits publicados esta ma\u00f1ana, el presidente Trump ha vuelto a evitar hacer alguna expresi\u00f3n de empat\u00eda o solidaridad con Puerto Rico, tras estudios de la Universidasd de George Washington y de investigadores de la Universidad de Harvard que calculan en unos 3,000 el total de muertes ocurridas tras el paso del cicl\u00f3n.",
+          "\u201c<strong>3,000 personas no murieron en los dos huracanes que azotaron a Puerto Rico<\/strong>. Cuando sal\u00ed de la isla, DESPU\u00c9S de que la tormenta hab\u00eda golpeado, ten\u00edan entre seis y 18 muertes. Con el paso del tiempo, no subi\u00f3 demasiado. Luego, mucho tiempo despu\u00e9s, comenzaron a reportar n\u00fameros realmente grandes, como 3,000\u201d, public\u00f3 en Twitter.",
+          "De inmediato, les atribuy\u00f3 a los miembros del Partido Dem\u00f3crata la divulgaci\u00f3n de la presunta informaci\u00f3n incorrecta para hacerlo lucir mal. ",
+          "\"<strong>Esto fue hecho por los dem\u00f3cratas para hacerme quedar ver tan mal cuanto sea posible,<\/strong> cuando he recaudado con \u00e9xito miles de millones de d\u00f3lares para ayudar a reconstruir Puerto Rico. Si una persona muri\u00f3 por cualquier motivo, como la vejez, simplemente agr\u00e9guela a la lista. Eso es mala pol\u00edtica. Yo amo a Puerto Rico\u201d, a\u00f1adi\u00f3 el presidente."
+        ],
+        "comments": 0,
+        "place": null,
+        "days_to_live": null,
+        "disclaimer": null,
+        "tooltip": null,
+        "placeholders": [
+
+        ],
+        "related_news": [
+
+        ],
+        "maps": [
+
+        ],
+        "news_events": [
+
+        ],
+        "important_events": [
+
+        ],
+        "status": null,
+        "tags": [
+
+        ],
+        "data_content_type": "storynoticia"
       }
-    ]
+    }]
   }
 }
